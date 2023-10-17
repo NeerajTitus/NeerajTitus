@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeerajTitus
 - 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... freelance webprojects
+- 🌱 I’m currently working as a UI developer, interseted in freelance webprojects
 - 💞️ I’m looking to collaborate on ... Html, JS, CSS/SASS,Laravel, Simple webpages
 - 📫 How to reach me ... Instagram @juz._.keep._.calm(neerajtitus)
 
